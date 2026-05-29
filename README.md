@@ -6,13 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Computer+Science+%28AI%2FML%29+Student;Building+intelligent+systems;Learn+%E2%80%94+Build+%E2%80%94+Repeat;Open+to+Internships+%26+Opportunities)](https://git.io/typing-svg)
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-taigade)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohantaigade5@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohan07taigade)
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/rohan07taigade)
-
 </div>
 
 ---
@@ -130,13 +123,6 @@
       <a href="mailto:rohantaigade5@gmail.com">
         <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="48" height="48"/><br/>
         <sub><b>Gmail</b></sub>
-      </a>
-    </td>
-    <td align="center" width="30"></td>
-    <td align="center">
-      <a href="https://kaggle.com/rohan07taigade">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" width="48" height="48"/><br/>
-        <sub><b>Kaggle</b></sub>
       </a>
     </td>
   </tr>
