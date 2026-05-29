@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Computer+Science+%28AI%2FML%29+Student;Building+intelligent+systems;Learning+%E2%80%94+Shipping+%E2%80%94+Repeating;Open+to+Internships+%26+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Computer+Science+%28AI%2FML%29+Student;Building+intelligent+systems;Learn+%E2%80%94+Build+%E2%80%94+Repeat;Open+to+Internships+%26+Opportunities)](https://git.io/typing-svg)
 
 <br/>
 
@@ -15,27 +15,16 @@
 
 </div>
 
-<br/>
-
 ---
-
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan07taigade&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" />
 
 ## 🧑‍💻 About Me
 
-```python
-rohan = {
-    "degree"   : "B.Tech CS — AI/ML Specialization",
-    "location" : "Thane, India 🇮🇳",
-    "focus"    : ["Machine Learning", "Predictive Analytics",
-                  "Data Science", "Intelligent Systems"],
-    "exploring": ["Deep Learning", "NLP", "MLOps", "Cloud AI"],
-    "status"   : "Open to Internships & Research Roles 🚀",
-    "mantra"   : "Build → Learn → Improve → Repeat"
-}
-```
-
-<br clear="right"/>
+- 🎓 **B.Tech CS — AI/ML Specialization**
+- 📍 Thane, India · Open to remote & relocation
+- 🤖 Focused on **Machine Learning, Predictive Analytics & Intelligent Systems**
+- 🌱 Exploring **Deep Learning · NLP · MLOps · Cloud AI**
+- 💼 Actively seeking **Internships & Research Roles**
+- ⚡ Mantra: **Build → Learn → Improve → Repeat**
 
 ---
 
@@ -43,23 +32,26 @@ rohan = {
 
 <div align="center">
 
-### Languages
+**Languages**
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### AI / ML / Data
+**AI · ML · Data Science**
+
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### Tools
+**Tools**
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -69,17 +61,26 @@ rohan = {
 
 <div align="center">
 
-> ### *"I don't just study AI — I build with it."*
-> *The best engineers are problem solvers who ship. My approach: understand deeply, build fast, iterate faster.*
+> *"I don't just study AI — I build with it. Every project is a step toward creating systems that make a real difference."*
 
 <br/>
 
-![](https://img.shields.io/badge/Supervised%20Learning-6e40c9?style=flat-square)
-![](https://img.shields.io/badge/Feature%20Engineering-a855f7?style=flat-square)
-![](https://img.shields.io/badge/Model%20Deployment-06b6d4?style=flat-square)
-![](https://img.shields.io/badge/Predictive%20Analytics-0ea5e9?style=flat-square)
-![](https://img.shields.io/badge/NLP-8b5cf6?style=flat-square)
+![](https://img.shields.io/badge/Supervised%20Learning-6e40c9?style=flat-square)&nbsp;
+![](https://img.shields.io/badge/Feature%20Engineering-a855f7?style=flat-square)&nbsp;
+![](https://img.shields.io/badge/Model%20Deployment-06b6d4?style=flat-square)&nbsp;
+![](https://img.shields.io/badge/Predictive%20Analytics-0ea5e9?style=flat-square)&nbsp;
+![](https://img.shields.io/badge/NLP-8b5cf6?style=flat-square)&nbsp;
 ![](https://img.shields.io/badge/Deep%20Learning-7c3aed?style=flat-square)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=rohan07taigade&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=1)
 
 </div>
 
@@ -89,7 +90,7 @@ rohan = {
 
 <div align="center">
 
-### Open to · Internships · Research · Collaborations · Full-time (2026)
+**Open to · Internships · Research · Collaborations · Full-time (2026)**
 
 <br/>
 
