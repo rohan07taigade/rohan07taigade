@@ -12,12 +12,16 @@
 
 ## 🧑‍💻 About Me
 
+<big>
+
 - 🎓 **B.Tech CS — AI/ML Specialization**
 - 📍 Thane, India &nbsp;·&nbsp; Open to remote & relocation
 - 🤖 Focused on **Machine Learning, Predictive Analytics & Intelligent Systems**
 - 🌱 Exploring **Deep Learning · NLP · MLOps · Cloud AI**
 - 💼 Actively seeking **Internships & Research Roles**
 - ⚡ **Build → Learn → Improve → Repeat**
+
+</big>
 
 ---
 
@@ -64,35 +68,39 @@
 
 <div align="center">
 
+<big>
+
 > *"I don't just study AI — I build with it. Every project is a step toward creating systems that make a real difference."*
+
+</big>
 
 <br/>
 
-<table border="0" cellspacing="0" cellpadding="10">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36"/><br/>
-      <sub><b>Supervised ML</b></sub>
+<table border="0" cellspacing="0" cellpadding="10" style="border: none;">
+  <tr style="border: none;">
+    <td align="center" width="130" style="border: none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42"/><br/>
+      <br/><b>Supervised ML</b>
     </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="36" height="36"/><br/>
-      <sub><b>Feature Eng.</b></sub>
+    <td align="center" width="130" style="border: none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="42" height="42"/><br/>
+      <br/><b>Feature Eng.</b>
     </td>
-    <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="36" height="36"/><br/>
-      <sub><b>Deep Learning</b></sub>
+    <td align="center" width="130" style="border: none;">
+      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="42" height="42"/><br/>
+      <br/><b>Deep Learning</b>
     </td>
-    <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="36" height="36"/><br/>
-      <sub><b>NLP</b></sub>
+    <td align="center" width="130" style="border: none;">
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="42" height="42"/><br/>
+      <br/><b>NLP</b>
     </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" height="36"/><br/>
-      <sub><b>MLOps & Cloud</b></sub>
+    <td align="center" width="130" style="border: none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" height="42"/><br/>
+      <br/><b>MLOps & Cloud</b>
     </td>
-    <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36"/><br/>
-      <sub><b>Predictive AI</b></sub>
+    <td align="center" width="130" style="border: none;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="42" height="42"/><br/>
+      <br/><b>Predictive AI</b>
     </td>
   </tr>
 </table>
@@ -106,23 +114,23 @@
 
 <div align="center">
 
-**Open to · Internships · Research · Collaborations · Full-time (2026)**
+<big>**Open to · Internships · Research · Collaborations · Full-time (2026)**</big>
 
 <br/>
 
-<table border="0" cellspacing="0" cellpadding="14">
-  <tr>
-    <td align="center">
-      <a href="https://linkedin.com/in/rohan-taigade">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="48" height="48"/><br/>
-        <sub><b>LinkedIn</b></sub>
+<table border="0" cellspacing="0" cellpadding="14" style="border: none;">
+  <tr style="border: none;">
+    <td align="center" style="border: none;">
+      <a href="https://linkedin.com/in/rohan-taigade" style="text-decoration: none;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="56" height="56"/><br/>
+        <br/><b>LinkedIn</b>
       </a>
     </td>
-    <td align="center" width="30"></td>
-    <td align="center">
-      <a href="mailto:rohantaigade5@gmail.com">
-        <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="48" height="48"/><br/>
-        <sub><b>Gmail</b></sub>
+    <td align="center" width="30" style="border: none;"></td>
+    <td align="center" style="border: none;">
+      <a href="mailto:rohantaigade5@gmail.com" style="text-decoration: none;">
+        <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="56" height="56"/><br/>
+        <br/><b>Gmail</b>
       </a>
     </td>
   </tr>
