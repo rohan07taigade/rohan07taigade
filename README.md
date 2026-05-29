@@ -53,16 +53,6 @@
 
 ---
 
-### 🏆 Achievements & Highlights
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=rohan07taigade&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10)
-
-</div>
-
----
-
 ### 💡 What Drives Me
 
 > *"I don't just study AI — I build with it. Every project is a step toward creating systems that make a real difference."*
