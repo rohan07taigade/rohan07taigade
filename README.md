@@ -86,16 +86,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=rohan07taigade&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=1)
-
-</div>
-
----
-
 ## 📬 Let's Connect
 
 <div align="center">
@@ -104,8 +94,9 @@
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/rohantaigade5%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohantaigade5@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-taigade)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-taigade)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohantaigade5@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/rohan07taigade)
 
 <br/>
 
