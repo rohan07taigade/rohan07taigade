@@ -8,11 +8,10 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-taigade)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rohantaigade5@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/rohan07taigade)
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/rohan07taigade)
-[![Topcoder](https://img.shields.io/badge/Topcoder-29ABE2?style=flat-square&logo=topcoder&logoColor=white)](https://www.topcoder.com/members/400615)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-taigade)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohantaigade5@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohan07taigade)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/rohan07taigade)
 
 </div>
 
@@ -21,11 +20,11 @@
 ## 🧑‍💻 About Me
 
 - 🎓 **B.Tech CS — AI/ML Specialization**
-- 📍 Thane, India · Open to remote & relocation
+- 📍 Thane, India &nbsp;·&nbsp; Open to remote & relocation
 - 🤖 Focused on **Machine Learning, Predictive Analytics & Intelligent Systems**
 - 🌱 Exploring **Deep Learning · NLP · MLOps · Cloud AI**
 - 💼 Actively seeking **Internships & Research Roles**
-- ⚡ Mantra: **Build → Learn → Improve → Repeat**
+- ⚡ **Build → Learn → Improve → Repeat**
 
 ---
 
@@ -33,14 +32,16 @@
 
 <div align="center">
 
-**Languages & Core**<br/>
+### Languages & Core
+
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/></a>&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/></a>&nbsp;&nbsp;
 <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML5"/></a>&nbsp;&nbsp;
 <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS3"/></a>&nbsp;&nbsp;
 <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/></a>
 
-**AI · ML · Data Science**<br/>
+### AI · ML · Data Science
+
 <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn"/></a>&nbsp;&nbsp;
 <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/></a>&nbsp;&nbsp;
 <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/></a>&nbsp;&nbsp;
@@ -48,13 +49,15 @@
 <a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" height="48" alt="TensorFlow"/></a>&nbsp;&nbsp;
 <a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn"/></a>
 
-**Web & Backend**<br/>
+### Web & Backend
+
 <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React"/></a>&nbsp;&nbsp;
 <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="Node.js"/></a>&nbsp;&nbsp;
 <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="48" height="48" alt="Express"/></a>&nbsp;&nbsp;
 <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="48" height="48" alt="PostgreSQL"/></a>
 
-**Cloud & Tools**<br/>
+### Cloud & Tools
+
 <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS"/></a>&nbsp;&nbsp;
 <a href="https://www.jenkins.io"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="48" height="48" alt="Jenkins"/></a>&nbsp;&nbsp;
 <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git"/></a>&nbsp;&nbsp;
@@ -72,12 +75,34 @@
 
 <br/>
 
-![](https://img.shields.io/badge/Supervised%20Learning-6e40c9?style=flat-square)&nbsp;
-![](https://img.shields.io/badge/Feature%20Engineering-a855f7?style=flat-square)&nbsp;
-![](https://img.shields.io/badge/Model%20Deployment-06b6d4?style=flat-square)&nbsp;
-![](https://img.shields.io/badge/Predictive%20Analytics-0ea5e9?style=flat-square)&nbsp;
-![](https://img.shields.io/badge/NLP-8b5cf6?style=flat-square)&nbsp;
-![](https://img.shields.io/badge/Deep%20Learning-7c3aed?style=flat-square)
+<table border="0" cellspacing="0" cellpadding="10">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36"/><br/>
+      <sub><b>Supervised ML</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="36" height="36"/><br/>
+      <sub><b>Feature Eng.</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="36" height="36"/><br/>
+      <sub><b>Deep Learning</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="36" height="36"/><br/>
+      <sub><b>NLP</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" height="36"/><br/>
+      <sub><b>MLOps & Cloud</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36"/><br/>
+      <sub><b>Predictive AI</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -92,10 +117,30 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-taigade)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rohantaigade5@gmail.com)&nbsp;
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/rohan07taigade)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/rohan07taigade)
+<table border="0" cellspacing="0" cellpadding="14">
+  <tr>
+    <td align="center">
+      <a href="https://linkedin.com/in/rohan-taigade">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="48" height="48"/><br/>
+        <sub><b>LinkedIn</b></sub>
+      </a>
+    </td>
+    <td align="center" width="30"></td>
+    <td align="center">
+      <a href="mailto:rohantaigade5@gmail.com">
+        <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="48" height="48"/><br/>
+        <sub><b>Gmail</b></sub>
+      </a>
+    </td>
+    <td align="center" width="30"></td>
+    <td align="center">
+      <a href="https://kaggle.com/rohan07taigade">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" width="48" height="48"/><br/>
+        <sub><b>Kaggle</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
